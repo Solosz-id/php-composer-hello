@@ -1,0 +1,22 @@
+{
+    "name": "solosz/php-composer-libarary",
+    "description": "php composer with library",
+    "type": "library",
+
+    "authors": [
+        {
+            "name": "Akhmad Jainudin Noor Rahman",
+            "email": "akhmadjainudinnr@gmail.com"
+        }
+    ],
+
+    "autoload": {
+        "psr-4": {
+            "Solosz\\PhpComposerLibrary\\": "src/"
+        }
+    },
+
+    "require": {
+        "php" : ">=8.0"
+    }
+}
