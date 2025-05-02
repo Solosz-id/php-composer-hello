@@ -3,7 +3,7 @@
 
     class Costumer{
 
-        public public function __construct() {
+        public function __construct(private string $name) {
         }
 
         public function sayHello(string $name): string{

@@ -15,7 +15,6 @@
             "Solosz\\PhpComposerLibrary\\": "src/"
         }
     },
-
     "require": {
         "php" : ">=8.0"
     }
